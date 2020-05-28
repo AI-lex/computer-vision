@@ -1,2 +1,2 @@
-# pyalgos
-possible job interview programming tasks
+# cv_test
+fun with cv_libs
