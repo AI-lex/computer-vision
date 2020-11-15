@@ -1,5 +1,5 @@
 # cv_test
-fun with cv_libs
+fun with computer vision tasks and ml libraries
 
 mnist digits:
   - Keras
