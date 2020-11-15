@@ -1,4 +1,4 @@
-# cv_test
+# computer vision projects
 fun with computer vision tasks and ml libraries
 
 mnist digits:
